@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *dhanurenu0119@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qae5vfYbPGkarvde_PkW6Ake6qe6Oti_/view?usp=drivesdk](https://drive.google.com/file/d/1qae5vfYbPGkarvde_PkW6Ake6qe6Oti_/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qae5vfYbPGkarvde_PkW6Ake6qe6Oti_/view?usp=drivesdk](https://drive.google.com/file/d/13nZwD9wkeHhgr2FhwOBfjDCsKQYaIQXa/view?usp=drivesdk)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
