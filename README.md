@@ -4,16 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-r0119&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r0119" /> </p>
 
 - 🔭 I’m currently working on [Disaster Rescue Team Formation](https://github.com/dhanush-r0119/Disaster-Management-Software)
-
-- 🌱 I’m currently learning *mango db, node.js*
-
-- 🤝 I’m looking for help with *Find My Doctor Mobile app*'
   
-- 🧑🏻‍💻 I'm a Java developer
+- 🧑🏻‍💻 I'm a Java Programmer
 
 - 💬 Hobbies *App Developing, Problem Solving*
 
-- 📫 How to reach me *dhanurenu0119@gmail.com*
+- - 🌱 I’m currently Working on Full Stack Project "Find My Doctor" 
+
+- 📫 How to reach me *dhanushrenugopal@gmail.com*
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/13nZwD9wkeHhgr2FhwOBfjDCsKQYaIQXa/view?usp=drivesdk)
   
