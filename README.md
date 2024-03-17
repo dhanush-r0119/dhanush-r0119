@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-r0119&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r0119" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-r0119&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r0119" /> </p>-->
 
 - 👩🏻‍🎓 I'm Currently Pursuing Prefinal Year Bachelors Degree in Electronics and Communicaion Engineering
   
