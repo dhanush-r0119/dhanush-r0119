@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *dhanushrenugopal@gmail.com*
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/13nZwD9wkeHhgr2FhwOBfjDCsKQYaIQXa/view?usp=drivesdk)
+- 📄 Know more about me [Resume](https://docs.google.com/document/d/17bqfGpk2AmdWuWGscs9dqHRoYYD5rNpZ5XUKPq0LYGI/edit?usp=sharing)
   
 - 🌐 Website  [Portfolio](https://dhanush-r0119.github.io/Personal-Portfolio/)
 <h3 align="center">Connect with me:</h3>
