@@ -5,7 +5,7 @@ Let's connect and innovate together!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushr2004/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dhanush-r0119) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24230978/dhanush-r) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-%230077B5.svg)](https://dhanush-r0119.github.io/Personal-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushr2004/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24230978/dhanush-r) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-%230077B5.svg)](https://dhanush-r0119.github.io/Personal-Portfolio/)
 
 
 
