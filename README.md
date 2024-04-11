@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-r0119&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r0119" /> </p>-->
-
-- 👩🏻‍🎓 I'm Currently Pursuing Prefinal Year Bachelors Degree in Electronics and Communicaion Engineering
-  
-- 🧑🏻‍💻 I'm a Java Programmer
-
-- 💬 Hobbies *App Developing, Problem Solving*
-  
-- 🔭 I’m currently working on Team Project [Disaster Rescue Team Formation](https://github.com/dhanush-r0119/Disaster-Management-Software)
-  
-- 🌱 I'm currently Working on my individual Project "Find My doctor"
-
-- 📫 How to reach me *dhanushrenugopal@gmail.com*
-
-- 📄 Know more about me [Resume](https://docs.google.com/document/d/17bqfGpk2AmdWuWGscs9dqHRoYYD5rNpZ5XUKPq0LYGI/edit?usp=sharing)
-  
-- 🌐 Website  [Portfolio](https://dhanush-r0119.github.io/Personal-Portfolio/)
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/dhanushr2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanushr2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/21eca18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21eca18" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="120" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="120" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="120" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="120" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="40"/> </a> </p>
+# 🙋🏼‍♀️ About Me:
+Hi, I am Dhanush ,<br>As an electronics and communication engineering student with a keen interest in software development, my objective is to leverage my interdisciplinary background to create impactful software solutions. I aspire to apply my knowledge of electronics alongside my programming skills to develop efficient and reliable software applications, contributing to the advancement of technology and addressing the real world challenges.
 
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-r0119&show_icons=true&locale=en&layout=compact" alt="dhanush-r0119" /></p>-->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanushr2004/) [![Portfolio](https://dhanush-r0119.github.io/Personal-Portfolio/)][![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/DHAARANI-M-KIT) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Standard-Tadpole-806/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23559564) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhanush-r0119&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhanush-r0119&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-r0119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhanush-r0119&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dhanush-r0119&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
