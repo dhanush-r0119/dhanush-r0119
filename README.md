@@ -15,9 +15,9 @@ Let's connect and innovate together!
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # 📊 GitHub Stats:
 
-![dhanush-r0119's Stats](https://github-readme-stats.vercel.app/api?username=dhanush-r0119&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br>
-![dhanush-r0119's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanush-r0119&theme=vue-dark&hide_border=false)<br>
-![dhanush-r0119's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-r0119&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![dhanush-r0119's Stats](https://github-readme-stats.vercel.app/api?username=dhanush-r0119&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
+![dhanush-r0119's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanush-r0119&theme=vue-dark&hide_border=true)<br>
+![dhanush-r0119's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-r0119&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
