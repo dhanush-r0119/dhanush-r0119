@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hey! I'm Dhanush, an Electronics and Communication Engineering student with a passion for programming. Specializing in Java and full-stack development, I enjoy crafting efficient solutions that make a real impact. Eager to learn, grow, and collaborate, I'm always exploring new technologies and embracing challenges head-on. Let's connect and innovate together!
+Hey! I'm Dhanush,<br> an Electronics and Communication Engineering student with a passion for programming. Specializing in Java and full-stack development, I enjoy crafting efficient solutions that make a real impact. Eager to learn, grow, and collaborate, I'm always exploring new technologies and embracing challenges head-on. <br>Let's connect and innovate together!
 
 [![View Resume](https://img.shields.io/badge/View%20Resume-Download-blue)](https://docs.google.com/document/d/17bqfGpk2AmdWuWGscs9dqHRoYYD5rNpZ5XUKPq0LYGI/edit?usp=sharing)
 
